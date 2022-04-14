@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/87780914/163328023-fbb4eb83-32fc-4ca0-a4ef-345740626df5.mp4
+
 ---
 title: Setting up GitHub Desktop
 shortTitle: Setup
